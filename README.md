@@ -9,6 +9,8 @@ Features
 
 Demo
    https://sashmit17.github.io/Palindrome-Checker/
+
+   
 How to Use
    - Enter any word or phrase into the text input field.
    - Click the **"Check"** button.
